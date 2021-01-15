@@ -1,9 +1,12 @@
-// ITERATION 1
+// ITERATION 1: Update subtotal
 
 function updateSubtotal(product) {
   console.log('Calculating subtotal, yey!');
 
-  //... your code goes here
+  // Step 1. Create 2 variables: price, quantity
+
+  const price = product.querySelector('.price span');
+  let quantity = 
 }
 
 function calculateAll() {
